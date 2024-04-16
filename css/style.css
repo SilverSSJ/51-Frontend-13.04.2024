@@ -66,5 +66,5 @@ h2 {
     font-weight: 500;
 }
 .courseDescription_wrapper{
-    display:;
+    display: flex;
 }
